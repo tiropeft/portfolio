@@ -10,7 +10,7 @@
 
 | Наименование проекта      | Описание             |Стек|
 | ------------- |:------------------:| -----:|
-| [jupyter](https://github.com/tiropeft/portfolio/blob/main/fitness_center_churn_ml/churn_fitness.ipynb)   | выровнен вправо    | $1600 |
+| [jupyter](https://github.com/tiropeft/portfolio/blob/main/fitness_center_churn_ml/churn_fitness.ipynb)   | С помощью машинного обучения <br> спрогнозировать отток клиентов на следующий месяц     | $1600 |
 | столбец 2     | выровнен по центру |   $12 |
 | зебра-строки  | прикольные         |    $1 |
 
