@@ -1,5 +1,5 @@
 # Гипотезы для увеличения выручки
-[HTML_jupyetr]('')
+[HTML_jupyter]('https://github.com/tiropeft/portfolio/blob/main/hypothesis_testing/гипотезы_увелич.выруч.ipynb')
 
 # Описание проекта 
 
